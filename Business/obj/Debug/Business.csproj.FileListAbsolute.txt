@@ -1,0 +1,22 @@
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\Business.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\Business.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\Business.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\Business.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\DataAccess.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\Entities.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\DataAccess.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\bin\Debug\Entities.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.csproj.CopyComplete
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\Business\obj\Debug\Business.pdb

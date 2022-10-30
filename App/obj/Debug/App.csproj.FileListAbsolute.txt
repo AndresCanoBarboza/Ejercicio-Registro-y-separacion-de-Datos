@@ -1,0 +1,39 @@
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\App.exe.config
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\App.exe
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\App.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmInicio.resources
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.exe
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\Business.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\Business.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmRegistrarClientes.resources
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmAnalizarClientes.resources
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\App.exe.config
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\App.exe
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\App.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\Business.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\Entities.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\DataAccess.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\Business.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\Entities.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\bin\Debug\DataAccess.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.AssemblyReference.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmAnalizarClientes.resources
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmInicio.resources
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.Forms.frmRegistrarClientes.resources
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.Properties.Resources.resources
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.GenerateResource.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.csproj.CopyComplete
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.exe
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\App\obj\Debug\App.pdb

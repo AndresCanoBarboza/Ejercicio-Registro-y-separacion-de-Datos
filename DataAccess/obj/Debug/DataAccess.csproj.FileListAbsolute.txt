@@ -1,0 +1,18 @@
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\DataAccess.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\DataAccess.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\Entities.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\bin\Debug\Entities.pdb
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.dll
+G:\Mi unidad\Carrera_Informática\Cursos\2022\Cuatrimestre I\Programación Avanzada\AndresCanoBarboza-tarea3\AndresCanoBarboza-tarea3\DataAccess\obj\Debug\DataAccess.pdb
